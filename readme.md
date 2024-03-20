@@ -1,12 +1,4 @@
-![LaravelCollective HTML](LaravelCollectiveHTML-banner.png)
+# Unofficial Laravel 11 Compatible Fork of the LaravelCollective Forms Package
 
-[![Build Status](https://travis-ci.org/LaravelCollective/html.svg)](https://travis-ci.org/LaravelCollective/html)
-[![Total Downloads](https://poser.pugx.org/LaravelCollective/html/downloads)](https://packagist.org/packages/laravelcollective/html)
-[![Latest Stable Version](https://poser.pugx.org/LaravelCollective/html/v/stable.svg)](https://packagist.org/packages/laravelcollective/html)
-[![Latest Unstable Version](https://poser.pugx.org/LaravelCollective/html/v/unstable.svg)](https://packagist.org/packages/laravelcollective/html)
-[![License](https://poser.pugx.org/LaravelCollective/html/license.svg)](https://packagist.org/packages/laravelcollective/html)
-
-Official documentation for Forms & Html for The Laravel Framework can be found at the [LaravelCollective](https://laravelcollective.com/docs) website.
-
-## Replacement
-If you're looking to replace this package due to it's retirement we recommend using [Shift](https://laravelshift.com/convert-laravelcollective-html-to-spatie-laravel-html)
+This is a fork of the original [LaravelCollective HTML](https://github.com/LaravelCollective/html/) package that allows installing on Laravel 11.
+It does not make any promise to be compatible with Laravel 11.
